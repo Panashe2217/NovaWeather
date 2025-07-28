@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# NovaWeather
+A fully responsive weather application built using React.js, featuring real-time weather data from OpenWeatherMap API, 5-day forecasts, unit toggle (°C/°F), location-based weather, city bookmarks, dark/light theme toggle, and a modern gradient UI. Built for learning and showcasing frontend development skills
+>>>>>>> fe5c20b4f30af1bd85ea24e41ce517ffde34cd59
