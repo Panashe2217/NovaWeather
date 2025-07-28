@@ -3,7 +3,7 @@ import axios from "axios";
 import "./App.css";
 import background from "./assets/clouds-bg.jpg";
 
-const API_KEY = "3e73d5679196c1d581adba2f85092a7d";
+const API_KEY = process.env.REACT_APP_API_KEY;
 
 const App = () => {
   const [city, setCity] = useState("");
