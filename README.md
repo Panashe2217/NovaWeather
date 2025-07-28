@@ -29,4 +29,10 @@ In the project directory, run:
 npm install
 npm start
 
+👩‍💻 Author Panashe Emma Nkume 💌 panashenkume@gmail.com 🔗 LinkedIn https://www.linkedin.com/in/panashe-nkume-086215257/ 💻 GitHub https://github.com/Panashe2217/
+
+📄 License This project is licensed under the MIT License.
+
+
+
 >>>>>>> fe5c20b4f30af1bd85ea24e41ce517ffde34cd59
