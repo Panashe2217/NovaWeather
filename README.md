@@ -11,6 +11,9 @@ A fully responsive weather application built using React.js, featuring real-time
 - Saved/bookmarked locations
 - Smooth animations and transitions
 - Responsive modern UI design
+- 
+LIVE LINK:
+https://novaweather.vercel.app
 
 ## 🛠️ Built With
 - React.js
